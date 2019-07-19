@@ -1,0 +1,15 @@
+.button {
+    width: 100px;
+    height: 40px;
+    background-color: rgb(79, 221, 23);
+    border: 1.5px solid rgb(212, 26, 57);
+    border-radius: 60px;
+    color: black;
+    font-weight: bold;
+    text-transform: uppercase;
+    transform: translate(40vw, 30vh);
+}
+
+.hidden {
+    opacity: 0.2;
+}
